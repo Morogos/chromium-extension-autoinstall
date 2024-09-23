@@ -1,3 +1,7 @@
+#!/bin/bash
+
+# extensions (links so far)
+EXTENSIONS=(
 "https://chromewebstore.google.com/detail/openvideo-%E2%80%93-ad-free-strea/dadggmdmhmfkpglkfpkjdmlendbkehoh"
 
 "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"
@@ -33,3 +37,18 @@
 "https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi"
 
 "https://chromewebstore.google.com/detail/user-agent/ncgbkkljbaojkhljombpjejedphfhdjj"
+
+)
+
+# function to download extensions, detect chromium based browsers installed, and install extensions in all chromium browsers present
+
+
+
+
+
+
+
+
+
+
+
