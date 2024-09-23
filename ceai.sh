@@ -38,6 +38,8 @@ EXTENSIONS=(
 
 "https://chromewebstore.google.com/detail/user-agent/ncgbkkljbaojkhljombpjejedphfhdjj"
 
+"https://chromewebstore.google.com/detail/jshelter/ammoloihpcbognfddfjcljgembpibcmb"
+
 )
 
 download_and_install() {
