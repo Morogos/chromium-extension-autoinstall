@@ -40,10 +40,14 @@ EXTENSIONS=(
 
 )
 
+download_and_install() {
+
+
 # function to download extensions, detect chromium based browsers installed, and install extensions in all chromium browsers present
 
 
 
+echo "Extension installation complete."
 
 
 
